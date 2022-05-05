@@ -24,4 +24,4 @@ The code is licenced under the MIT license and free to use by anyone without any
 
 ***
 
-<p align='center'>Created with :heart: by <a href="https://github.com/tayalmanan28">Manan Tayal</a> </p>
+<p align='center'>Created with :heart: by <a href="https://github.com/tayalmanan28">Manan Tayal</a>, Piyush Tiwary and Ayush Sawarni </p>
