@@ -8,10 +8,7 @@
 ### Implementations 
 
 
-
-### [Project Report]()
-
-### [Presentation]()
+### [Presentation](https://github.com/tayalmanan28/Offline_learning_IQL/blob/main/IQL_RL_Project_Presentation.pdf)
 
 ## Usage
 
